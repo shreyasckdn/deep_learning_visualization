@@ -9,4 +9,6 @@ The code runs the input through two networks
 
 1. A 2 Layered Network (Linear Layer, NL, Linear Layer)
 2. A 3 Layered Network (Linear Layer, NL, Linear Layer, NL, Linear Layer)
-You can also optionally initialize the weights of the neural network yourself. Initializing weights to different scale of values will enable you to make visualizations similar to 02-space_stretching.ipynb
+You can also optionally initialize the weights of the neural network yourself. 
+
+Initializing weights to different scale of values will enable you to make visualizations similar to 02-space_stretching.ipynb
